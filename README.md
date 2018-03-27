@@ -1,6 +1,3 @@
-# Meetup-2018-03-27
-March 27, 2018 - Timothy Klenke - Dependency Inversion Principle
-
 # Dependency Inversion Principle
 ## Timothy Klenke
 ### Edmonton .NET User Group Meetup (March 27th, 2018)
